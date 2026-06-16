@@ -1,0 +1,9 @@
+metric,value
+Total SKUs,600.0
+Total inventory value,3833198.21
+Baseline annual carrying cost (25%),958299.55
+Slow-moving SKUs,32.0
+Slow-moving inventory value,368448.11
+Excess inventory value (above 75d DOS),456326.38
+Annual carrying-cost saving,114081.6
+Carrying-cost reduction %,11.9

@@ -1,0 +1,22 @@
+model,category,MAPE,WAPE,RMSE
+Moving-Average (baseline),Apparel,20.19,10.57,400.6
+Moving-Average (baseline),Electronics,18.31,10.91,620.9
+Moving-Average (baseline),Grocery,18.8,11.63,413.9
+Moving-Average (baseline),Health & Beauty,20.93,14.34,467.6
+Moving-Average (baseline),Home & Kitchen,20.01,8.98,399.4
+Moving-Average (baseline),Sports & Outdoors,21.22,11.88,290.1
+Moving-Average (baseline),ALL,19.91,11.09,443.4
+Seasonal-Naive (reference),Apparel,16.23,8.56,327.9
+Seasonal-Naive (reference),Electronics,14.07,8.39,503.7
+Seasonal-Naive (reference),Grocery,13.96,8.57,332.9
+Seasonal-Naive (reference),Health & Beauty,17.11,9.81,432.5
+Seasonal-Naive (reference),Home & Kitchen,14.44,7.43,294.0
+Seasonal-Naive (reference),Sports & Outdoors,18.01,8.21,248.1
+Seasonal-Naive (reference),ALL,15.64,8.4,366.8
+Gradient Boosting (ML),Apparel,15.8,6.33,302.5
+Gradient Boosting (ML),Electronics,13.26,6.33,555.8
+Gradient Boosting (ML),Grocery,13.82,7.32,361.5
+Gradient Boosting (ML),Health & Beauty,15.57,7.65,448.1
+Gradient Boosting (ML),Home & Kitchen,13.61,5.33,277.9
+Gradient Boosting (ML),Sports & Outdoors,18.42,7.68,247.8
+Gradient Boosting (ML),ALL,15.08,6.6,380.9

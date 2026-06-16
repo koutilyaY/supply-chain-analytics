@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Generated artifacts (reproducible via `python src/run_all.py`)
+data/raw/*.csv
+data/processed/
+data/powerbi/*.csv
+reports/*.xlsx
+reports/figures/*.png
+reports/weekly_report_*
+
+# Keep the directory structure
+!data/raw/.gitkeep
