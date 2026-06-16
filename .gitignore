@@ -1,6 +1,7 @@
 # Python
 venv/
 __pycache__/
+.claude/
 *.pyc
 .ipynb_checkpoints/
 
